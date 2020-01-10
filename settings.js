@@ -1,5 +1,5 @@
 // Change the url to the domain of your app
-exports.url = 'http://localhost:3090';
+exports.url = 'https://sendgrid-form-node.herokuapp.com/';
 
 exports.senderEmail = "sender@example.com";
 exports.senderName = "Sender Name";
